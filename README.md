@@ -14,6 +14,19 @@ A fast-paced 2D action-fantasy game where players face off against powerful foes
 - **Esc** → Pause Menu  
 
 ---
+## 🚀 Installation & Launch
+
+1. **Download the Zip File**  
+   👉 [Download from Google Drive](https://drive.google.com/drive/folders/1Qd3_9rk7lemjcbO3aDwy8NeK7h2nQRuL?usp=sharing)  
+
+2. **Extract the Files**  
+   - Right-click the downloaded `"SoulBoundDuel.zip"` → `"Extract All"`.  
+
+3. **Run the Game**  
+   - Launch `SoulBoundDuel.exe`.  
+
+---
+🎬 You can find the presentation video in the Google Drive link below, as well as inside the ZIP file.
 
 ## 💻 System Requirements
 
@@ -33,18 +46,6 @@ A fast-paced 2D action-fantasy game where players face off against powerful foes
 
 ---
 
-## 🚀 Installation & Launch
-
-1. **Download the Zip File**  
-   👉 [Download from Google Drive](https://drive.google.com/drive/folders/1Qd3_9rk7lemjcbO3aDwy8NeK7h2nQRuL?usp=sharing)  
-
-2. **Extract the Files**  
-   - Right-click the downloaded `"SoulBoundDuel.zip"` → `"Extract All"`.  
-
-3. **Run the Game**  
-   - Launch `SoulBoundDuel.exe`.  
-
----
 
 ## ⚠️ Known Issues
 
