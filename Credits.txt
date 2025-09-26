@@ -1,0 +1,53 @@
+==========================
+   SoulBound Credits
+==========================
+
+Developed by: Rezolute
+Game Designers: Chittansh Kumar, Pratyush Singh
+Artists: Alok Yadav
+Sound & Music: Pratyush Singh, Alok Yadav
+Programming: Chittansh Kumar, Pratyush Singh
+
+--------------------------
+  Asset Attributions
+--------------------------
+
+[Example placeholders — replace with actual sources as you add assets]
+
+- Character Sprites
+  Author: clembod.itch.io
+  Source: https://clembod.itch.io/warrior-free-animation-set
+
+- Boss Animations
+  Author: immortal-burrito.itch.io
+  Source: https://immortal-burrito.itch.io/blood-demons
+
+- Background Art
+  Author: edermunizz.itch.io
+  Source: https://edermunizz.itch.io/free-pixel-art-forest
+  License: [License Type]
+
+- UI Elements
+  Author: toffeecraft
+  Source: https://toffeecraft.itch.io/
+
+- Sound Effects
+  Author: Alex
+  Source: https://www.chosic.com/free-music/all/?keyword=Alex-Productions&artist
+
+
+
+--------------------------
+  Tools & Frameworks
+--------------------------
+
+- Unity Game Engine  
+  License: Unity Software License Agreement  
+
+--------------------------
+  Legal Notice
+--------------------------
+
+All third-party assets are credited to their respective creators 
+and used under their specified licenses. This game is a non-commercial/
+commercial project (update depending on release type).

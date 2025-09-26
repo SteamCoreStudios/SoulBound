@@ -1,0 +1,34 @@
+# SoulBound Duel — Metadata
+
+## 👥 Team Information
+- **Team Name:** Rezolute  
+- **Members:**
+  - Chittansh Kumar — Game Design & Programming & Boss Scripting & Mechanisms & Presentation
+  - Pratyush Singh — Game Design & Programming & Art & Animation & Player Scripting & Mechanisms & UI
+  - Alok Yadav — Game Design & Programming & Sound & Music & Background
+
+---
+
+## 🕹️ Game Description
+
+SoulBound is a dark fantasy boss-battle game where the player is thrown directly into combat against a relentless foe.
+
+You begin with three lives to defeat a single, ever-evolving boss. Unlike ordinary enemies, this boss wields the cursed power of soul absorption — every time it consumes a soul, it grows faster, stronger, and more dangerous, reversing its age and transforming into younger, deadlier forms.
+
+The challenge lies in stopping the boss before it ascends into its final phase, a state of overwhelming power that no mortal warrior can defeat. Each life matters, and every mistake brings the boss closer to becoming unstoppable.  
+
+### Key Features
+- **Dynamic Boss Battles** — Each enemy has multiple phases and unique attack patterns.  
+- **Skill-Based Combat** — Dash, dodge, and counterattack to survive intense encounters.  
+- **Spell & Ability System** — Switch between spells mid-battle for adaptive strategies.  
+- **Stylized Visuals** — Hand-drawn line art with high-contrast fantasy aesthetics.  
+//Some of the Features are not yet been added to the game.
+---
+
+## Project Status
+- **Phase 1:** Core combat and first boss fight (in progress).  
+- **Phase 2:** Expanding boss roster, ability upgrades.  
+- **Future Plans:** Addition of Different Phases of boss and Powerups for the player.  
+- **Future Plans:** Multiplayer dueling mode, progression system, and additional environments.  
+
+---
